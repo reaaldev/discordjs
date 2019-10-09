@@ -1,0 +1,5 @@
+{
+    // remove comments in here.
+    "prefix": "", // bot prefix goes here. eg/ +
+    "token": "" // bot token goes here
+}
